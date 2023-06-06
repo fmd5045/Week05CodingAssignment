@@ -3,7 +3,7 @@ package week05;
 public class App {
 
 	public static void main(String[] args) {
-		AsteriskLogger asteriskLogger = new AsteriskLogger("Favorite");
+		AsteriskLogger asteriskLogger = new AsteriskLogger("Hello");
 		SpacedLogger spacedLogger = new SpacedLogger("Museum");
 		
 		asteriskLogger.Log();
